@@ -51,9 +51,12 @@
       <Data>Data</Data>
       <Sequence>Sequences</Sequence>
       <SearchPropertyList>Search Property Lists</SearchPropertyList>
+      <SecurityPolicy>
+      </SecurityPolicy>
     </Prefixes>
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
+  <IsAzure>False</IsAzure>
   <DataFileSet>
     <Count>2</Count>
     <DataFile>Person.AddressType_Data.sql</DataFile>
