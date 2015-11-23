@@ -6,8 +6,7 @@ GO
 CREATE PROCEDURE [dbo].[usp_GetContacts]
 AS
     BEGIN
-        SELECT  FirstName ,
-                LastName
+        SELECT  FirstName 
         FROM    Person.Person;
     END;
 
